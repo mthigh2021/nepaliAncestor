@@ -38,6 +38,20 @@ body {
     width: 150px;
 }
 
+ h1{
+ color: darkred;
+}
+ h2 {
+     color: darkviolet;
+ }
+
+ p1{
+     color: fuchsia;
+ }
+ p2{
+     color: limegreen;
+ }
+
 footer {
    position:absolute;
    bottom:0;
